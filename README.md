@@ -6,6 +6,7 @@ currently a computer science studend on my second semester of college.
 -Python
 -HTML
 -CSS
+-C
 
 • Main projects so far:
 -Simple crud using django.
